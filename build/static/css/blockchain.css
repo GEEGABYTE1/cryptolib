@@ -57,8 +57,11 @@ body{background-color:#343a40;font-family:"Open Sans",sans-serif}
     line-height: 50px;
     margin-right: 40px;
     margin-left: 40px;
+    padding-bottom: 40px;
     
 }
+
+
 .page-header__nav-icon {
     display:none;
     position:absolute;
