@@ -25,7 +25,8 @@ body{background-color:#343a40;font-family:"Open Sans",sans-serif;}
     display:inline-block;
     width:45px;
     height:45px;
-    margin-right:10px;
+    margin-right:40px;
+    margin-left: 40px;
     margin-top:-20px;
     background-color:#277DA1;
     font-family:serif;
@@ -54,6 +55,8 @@ a {
 .Paragraph1{
     margin-top: 100px;
     color: #EAE0D5;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .text1{
