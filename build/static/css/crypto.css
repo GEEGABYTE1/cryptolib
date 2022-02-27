@@ -9,7 +9,7 @@ blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
 button,input[type=submit]{cursor:pointer}
 h1{font-size:50px;font-weight:bold}
-h2{font-size:40px;font-weight:bold}
+h2{font-size:40px;font-weight:bold; margin-top: 20px;}
 h3{font-size:20px;font-weight:lighter}
 p{font-size:15px;color:rgb(199, 196, 196)}
 a{font-size:20px;text-decoration:none}
@@ -49,6 +49,7 @@ body{background-color:#343a40;font-family:"Open Sans",sans-serif}
 a {
     color: #277DA1;
 }
+
 
 .Paragraph1{
     margin-top: 100px;
